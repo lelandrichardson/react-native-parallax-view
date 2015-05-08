@@ -1,0 +1,30 @@
+{
+  "name": "react-native-parallax-view",
+  "version": "1.0.0",
+  "description": "Parallax view for vertical scrollview/listviews with a header image and header content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lelandrichardson/react-native-parallax-view.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "parallax"
+  ],
+  "author": "Leland Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lelandrichardson/react-native-parallax-view/issues"
+  },
+  "homepage": "https://github.com/lelandrichardson/react-native-parallax-view",
+  "dependencies": {
+    "react-native-blur": "^0.4.1"
+  },
+  "peerDependencies": {
+    "react-native": "^0.4.1"
+  }
+}

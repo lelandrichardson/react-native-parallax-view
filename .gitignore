@@ -45,3 +45,7 @@ node_modules
 .idea/vcs.xml
 
 .idea/workspace.xml
+
+.idea/libraries/react_native_parallax_view_node_modules.xml
+
+.idea/jsLibraryMappings.xml

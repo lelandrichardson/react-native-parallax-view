@@ -11,6 +11,8 @@ $ npm i react-native-parallax-view --save
 
 ![parallax view demo](http://media.giphy.com/media/3o85xxIYicm26IyaTm/giphy.gif)
 
+[Appetize.io demo](https://appetize.io/embed/dhw0pbp14v89w60quwrj6w70dg?device=iphone5s&scale=100&autoplay=false&orientation=portrait&deviceColor=black&params=%7B%22appId%22:%22qAFzcA%22,%22moduleName%22:%22ParallaxExample%22%7D)
+
 ## Example
 
 ```jsx

@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/lelandrichardson/react-native-parallax-view",
   "dependencies": {
-    "react-native-blur": "^0.5.x"
+    "react-native-blur": ">=0.5.0"
   },
   "peerDependencies": {
-    "react-native": "^0.5.x"
+    "react-native": ">=0.5.0"
   }
 }

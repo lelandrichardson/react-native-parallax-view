@@ -26,6 +26,6 @@
     "react-native-blur": ">=0.5.0"
   },
   "peerDependencies": {
-    "react-native": ">=0.5.0"
+    "react-native": ">=0.6.0-rc"
   }
 }

@@ -18,12 +18,12 @@ $ npm i react-native-parallax-view --save
 ```jsx
 <ParallaxView
     backgroundSource={require('image!backgroundImage')}
+    windowHeight={300}
     header={(
         <Text style={styles.header}>
             Header Content
         </Text>
     )}
-    windowHeight={300}
 >
   <View>
     // ... scrollview content

@@ -1,7 +1,7 @@
 {
   "name": "react-native-parallax-view",
-  "version": "1.0.2",
-  "description": "Parallax view for vertical scrollview/listviews with a header image and header content",
+  "version": "2.0.0",
+  "description": "Parallax view for vertical scrollview with a header image and header content",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,6 +26,6 @@
     "react-native-blur": ">=0.5.0"
   },
   "peerDependencies": {
-    "react-native": ">=0.6.0-rc"
+    "react-native": ">=0.8.0-rc || >=0.8.0"
   }
 }

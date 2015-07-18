@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "react-native": "^0.8.0-rc",
-    "react-native-parallax-view": "file:..",
-    "react-native-scrollable-mixin": "^1.0.1"
+    "react-native-parallax-view": "file:.."
   }
 }

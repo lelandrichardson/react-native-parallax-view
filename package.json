@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/lelandrichardson/react-native-parallax-view",
   "dependencies": {
+    "react-native-scrollable-mixin": "^1.0.1"
   },
   "peerDependencies": {
     "react-native": ">=0.8.0 || 0.8.0-rc || 0.8.0-rc.2 || 0.8.0-rc.3"

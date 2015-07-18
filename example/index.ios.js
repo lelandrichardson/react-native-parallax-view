@@ -18,6 +18,7 @@ var example = React.createClass({
     render: function () {
         return (
             <ParallaxView
+                ref={component => this._scrollView = component}
                 backgroundSource={{ uri: "http://i.imgur.com/mEVXC36.jpg" }}
                 windowHeight={300}
                 header={HEADER}>

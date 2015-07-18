@@ -9,6 +9,7 @@ var {
     AppRegistry,
     StyleSheet,
     Text,
+    TouchableOpacity,
     View,
     } = React;
 
@@ -114,6 +115,11 @@ var LOREMIPSUM = (
             tation deserunt mei an. Harum primis nam no, ius no habeo dolorum voluptatum. Sonet dissentias dissentiet
             vel in, te has discere accumsan.
         </Text>
+        <TouchableOpacity onPress={ () => console.log('Pressed!')  }>
+            <Text style={{color: '#00A7FF'}}>
+                Scroll to top
+            </Text>
+        </TouchableOpacity>
     </View>
 );
 

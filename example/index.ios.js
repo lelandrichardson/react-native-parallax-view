@@ -115,7 +115,7 @@ var LOREMIPSUM = (
             tation deserunt mei an. Harum primis nam no, ius no habeo dolorum voluptatum. Sonet dissentias dissentiet
             vel in, te has discere accumsan.
         </Text>
-        <TouchableOpacity onPress={ () => console.log('Pressed!')  }>
+        <TouchableOpacity onPress={ () => {this._scrollView.scrollTo(0, 0);}}>
             <Text style={{color: '#00A7FF'}}>
                 Scroll to top
             </Text>

@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-view",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Parallax view for vertical scrollview with a header image and header content",
   "main": "index.js",
   "scripts": {

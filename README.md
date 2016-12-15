@@ -16,7 +16,7 @@ NOTE: I will put up an rnplay.org working example whenever they support React Na
 
 ## Example
 
-There is a working example in the project `/example` folder that you can check out. Remember to run npm install inside 
+There is a working example in the project `/example` folder that you can check out. Remember to run npm install inside
 the example folder if you'd like to run that project.
 
 ```bash
@@ -50,6 +50,7 @@ Additionally, here is an example of the usage
 | Prop | Required | Default  | Type | Description |
 | :------------ |:---:|:---------------:| :---------------:| :-----|
 | backgroundSource | YES | `null` | `object` | the `source` prop that get's passed to the background `<Image>` component. If left blank, no background is rendered |
+| background | NO | `null` | `renderable` | content to render as the background instead of an `<Image>` component. This may be used instead of specifying `backgroundSource` |
 | header | NO | `null` | `renderable` | any content you want to render on top of the image. This content's opacity get's animated down as the scrollview scrolls up. (optional) |
 | windowHeight | NO | `300` | `number` | the resting height of the header image. If 0 is passed in, the background is not rendered. |
 | scrollableViewStyle | NO | `null` | `object` | this style will be mixed (overriding existing fields) with scrollable view style (view which is scrolled over the background) |

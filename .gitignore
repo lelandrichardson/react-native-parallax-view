@@ -26,26 +26,4 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 
-.idea/.name
-
-.idea/encodings.xml
-
-.idea/inspectionProfiles/profiles_settings.xml
-
-.idea/inspectionProfiles/Project_Default.xml
-
-.idea/misc.xml
-
-.idea/modules.xml
-
-.idea/react-native-parallax-view.iml
-
-.idea/scopes/scope_settings.xml
-
-.idea/vcs.xml
-
-.idea/workspace.xml
-
-.idea/libraries/react_native_parallax_view_node_modules.xml
-
-.idea/jsLibraryMappings.xml
+.idea

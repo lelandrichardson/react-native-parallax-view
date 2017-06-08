@@ -1,4 +1,4 @@
-**DEPRECATED - I will no longer maintain this repo**
+**DEPRECATED - I will no longer maintain this repo. Consider using [https://github.com/dejakob/react-native-keyboard-aware-parallax-scroll-view](https://github.com/dejakob/react-native-keyboard-aware-parallax-scroll-view)**
 
 # react-native-parallax-view
 

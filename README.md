@@ -1,3 +1,5 @@
+* DEPRECATED - I will no longer maintain this repo *
+
 # react-native-parallax-view
 
 Parallax view for vertical scrollview with a header image and header content

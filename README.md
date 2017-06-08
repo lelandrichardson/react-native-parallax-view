@@ -1,3 +1,5 @@
+**DEPRECATED - I will no longer maintain this repo. Consider using [https://github.com/dejakob/react-native-keyboard-aware-parallax-scroll-view](https://github.com/dejakob/react-native-keyboard-aware-parallax-scroll-view)**
+
 # react-native-parallax-view
 
 Parallax view for vertical scrollview with a header image and header content
@@ -49,7 +51,7 @@ Additionally, here is an example of the usage
 
 | Prop | Required | Default  | Type | Description |
 | :------------ |:---:|:---------------:| :---------------:| :-----|
-| backgroundSource | YES | `null` | `object` | the `source` prop that get's passed to the background `<Image>` component. If left blank, no background is rendered |
+| background | YES | `null` | `object` | Background can be image string, image object (with uri) or a React component to render |
 | header | NO | `null` | `renderable` | any content you want to render on top of the image. This content's opacity get's animated down as the scrollview scrolls up. (optional) |
 | windowHeight | NO | `300` | `number` | the resting height of the header image. If 0 is passed in, the background is not rendered. |
 | scrollableViewStyle | NO | `null` | `object` | this style will be mixed (overriding existing fields) with scrollable view style (view which is scrolled over the background) |

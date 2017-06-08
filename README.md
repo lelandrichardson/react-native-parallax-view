@@ -1,4 +1,4 @@
-* DEPRECATED - I will no longer maintain this repo *
+**DEPRECATED - I will no longer maintain this repo**
 
 # react-native-parallax-view
 

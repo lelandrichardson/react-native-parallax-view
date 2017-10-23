@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/lelandrichardson/react-native-parallax-view",
   "dependencies": {
+    "create-react-class": "^15.6.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
     "react-native-scrollable-mixin": "^1.0.1"
   },
   "peerDependencies": {
